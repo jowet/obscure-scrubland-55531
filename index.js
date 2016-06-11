@@ -15,7 +15,7 @@ app.use(bodyParser.json())
 
 // Index route
 app.get('/', function (req, res) {
-    res.send('Hello world, I am a chat bot,Test')
+    res.send('Hello world, I am a chat ot now')
 })
 
 // for Facebook verification
